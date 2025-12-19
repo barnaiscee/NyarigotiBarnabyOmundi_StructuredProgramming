@@ -1,4 +1,3 @@
-The primary difference between a normal variable and a pointer lies in what they hold and how they interact with the computer's memory.
 
 Storage: A normal variable stores a direct data value (like an integer, character, or float). A pointer stores a memory address (the location where a piece of data is kept).
 
